@@ -14,7 +14,7 @@ function App() {
   const handleLogin = (e) => {
     e.preventDefault();
 
-    if (password === "7887552395") {
+    if (password === "8007949147") {
       setIsLoggedIn(true);
     } else {
       alert("Wrong Password");

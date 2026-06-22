@@ -58,7 +58,7 @@ export default function QuestionsTab() {
     >
       <FloatingHeart />
 
-      <h2>💌 Date pe chalogi kya?</h2>
+      <h2>💌 Dahi Samosa khilayega ki nahi...?</h2>
 
       <div
         style={{
@@ -105,8 +105,8 @@ export default function QuestionsTab() {
       {answer && (
         <h3 style={{ marginTop: "20px" }}>
           {answer === "yes"
-            ? "Yayyy 💖 Date confirmed 😍"
-            : "Koi baat nahi 😅"}
+            ? "Yayyy 💖 Good boy 😍"
+            : "kya kanjoos 😅"}
         </h3>
       )}
     </section>

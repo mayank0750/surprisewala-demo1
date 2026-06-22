@@ -8,7 +8,7 @@ export default function WishCard() {
       <div className="card-sparkles right" aria-hidden="true">✦ ✨ ✧</div>
       <p>You make every moment special.</p>
       <p>Wishing you a day full of love, happiness<br />and unforgettable memories.</p>
-      <strong>Stay happy, stay blessed! Oggi<span>❤</span></strong>
+      <strong>Stay happy, stay blessed! Chirik<span>❤</span></strong>
     </section>
   );
 }
